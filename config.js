@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `Giờ hãy gọi mình là 4 và 6💗💗💗`,
     btnIntro: 'Tại sao á???',
     title: 'Tại mình crush bồ quanh 5 á🥰',
-    desc: 'Mình không đã mà còn crush bồ ❤❤❤',
+    desc: 'Mình không chỉ đã mà đang còn crush bồ ❤❤❤',
     btnYes: 'Tớ cũng thế ❤❤❤',
     btnNo: 'Không nha, mình và bồ chỉ là bạn thui !!!',
     question: 'Sao trong bao nhiêu đứa con trai, bồ lại chọn mình vậy?❤❤❤',
