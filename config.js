@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Mình cũng crush bạn nhiều lắm 😘😘',
     messDesc: 'Rep tin nhắn cho mình liền bồ ơi!!! ❤❤❤❤',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://chat.zalo.me/?null' 
+    messLink: 'https://www.facebook.com/jameslighthousegranger' 
 }
