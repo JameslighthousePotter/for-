@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Điều mình muốn nói lâu nay",
     introTitle: 'Bồ ơi,',
-    introDesc: `Giờ hãy gọi mình là 4 và 6💗💗💗`,
+    introDesc: `Giờ hãy bồ gọi mình là 4 và 6💗💗💗`,
     btnIntro: 'Tại sao á???',
     title: 'Tại mình crush bồ quanh 5 á🥰',
     desc: 'Bồ không trả lời hay thoát ra là làm ny tớ nha ❤❤❤',
