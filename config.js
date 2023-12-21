@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Tớ biết mà 🥰. Tớ cũng crush bạn nhiều lắm 😘😘😘',
     messDesc: 'Rep tin nhắn cho tớ liền bồ ơi!!! ❤❤❤❤',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/jameslighthousegranger' 
+    messLink: 'https://www.facebook.com/profile.php?id=61554309281965' 
 }
